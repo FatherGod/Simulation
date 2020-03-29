@@ -4,12 +4,12 @@ Simulation.py is a python script to help solving an application's PHD problem
 
 ## Installation
 
-You need python3, pygame and tkinter to use the script.
+You need python3, numpy, pygame and tkinter to use the script.
 
 For Ubuntu:
 ```bash
 sudo apt-get install python3
-pip install pygame tkinter
+pip install numpy pygame tkinter
 ```
 
 ## Usage
